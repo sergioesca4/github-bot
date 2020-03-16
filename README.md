@@ -1,6 +1,6 @@
 # github-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A github bot that will check for new first-good-issues in different repositories and alert users.
+> A GitHub App built with [Probot](https://github.com/probot/probot) that will check for new first-good-issues in different repositories and alert users.
 
 ## Setup
 
